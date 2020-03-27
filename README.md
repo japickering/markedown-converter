@@ -1,4 +1,4 @@
-# Markdown interface for HTML5 output
+# Markedown Converter App for HTML5 output
 
 ## About Demo
 A Codepen I wrote updated for the latest Create React App sandbox.
